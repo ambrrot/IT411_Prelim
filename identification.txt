@@ -1,0 +1,8 @@
+I.
+a.) It is a process of command that runs one at a time. 
+b.) It is a flow or a pattern of events that allows user to and the programer to interact. 
+c.) It allows the user to work on separate event. And it is easy to maintain.
+d.) asynchronous 
+	synchronous 
+	
+e.) it is a bundle of module that runs together.
